@@ -1,0 +1,42 @@
+.container {
+	position: relative;
+	/*text-align: center;*/
+	margin: auto 0;
+	display: inline-block;
+	width: 100px;
+	height: 200px;
+	background-color: goldenrod;
+	border: solid 2px red;
+}
+
+.container2 {
+	position: relative;
+	float: left;
+	/*text-align: center;*/
+	margin: auto 0;
+	display: block;
+	width: 100px;
+	height: 200px;
+	background-color: blue;
+	border: solid 2px red;
+}
+
+.container3 {
+	position: relative;
+	float: left;
+	/*text-align: center;*/
+	margin: auto 0;
+	display: block;
+	width: 100px;
+	height: 200px;
+	background-color: green;
+	border: solid 2px red;
+}
+
+.col1 {
+	text-align: center;
+	/*position: relative;*/
+	/*display: inline;*/
+	/*width: 100px;*/
+	/*height: 100px;*/
+}
